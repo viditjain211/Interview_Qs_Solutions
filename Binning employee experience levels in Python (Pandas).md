@@ -1,3 +1,6 @@
+
+##Binning employee experience levels in Python (Pandas)
+
 Below is a snippet from a table that contains information about employees that work at Company XYZ:
 
 | **employee\_name** | **employee\_id** | **date\_joined** | **age** | **yrs\_of\_experience** |
