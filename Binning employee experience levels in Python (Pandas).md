@@ -1,4 +1,4 @@
-##Binning employee experience levels in Python (Pandas)
+## Binning employee experience levels in Python (Pandas)
 
 Below is a snippet from a table that contains information about employees that work at Company XYZ:
 
